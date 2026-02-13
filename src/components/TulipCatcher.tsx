@@ -141,7 +141,7 @@ export default function TulipCatcher({ onComplete, gameCompleted }: TulipCatcher
     <section className={styles.gameSection}>
       <div className={styles.container}>
         <div className={styles.gameHeader}>
-          <h2>A Little Game for You 🌷</h2>
+          <h2>Hannayi since you like tulips 🌷</h2>
           <p>Catch {TARGET_SCORE} falling tulips to reveal something special!</p>
         </div>
 
